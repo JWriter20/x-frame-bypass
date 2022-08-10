@@ -14,7 +14,8 @@ customElements.define('x-frame-bypass', class extends HTMLIFrameElement {
 	load (url, options) {
 		if (!url || !url.startsWith('http'))
 			throw new Error(`X-Frame-Bypass src ${url} does not start with http(s)://`)
-		console.log('X-Frame-Bypass loading:', url)
+		console.log('X-Frame-Bypass loading:', url);
+		console.log(options);
 		this.srcdoc = `<html>
 <head>
 	<style>
