@@ -1,6 +1,6 @@
 {
-  "name": "x-frame-bypass",
-  "version": "1.0.2",
+  "name": "@Jwriter20/x-frame-bypass",
+  "version": "1.0.0",
   "description": "Web Component extending IFrame to bypass X-Frame-Options: deny/sameorigin",
   "main": "x-frame-bypass.js",
   "keywords": [
@@ -10,8 +10,8 @@
 	"web-components",
 	"custom-elements"
   ],
-  "author": "niu tech",
-  "homepage": "https://github.com/niutech/x-frame-bypass",
-  "repository": "github:niutech/x-frame-bypass",
+  "author": "niu tech, Jake Writer",
+  "homepage": "https://github.com/JWriter20/x-frame-bypass",
+  "repository": "github:Jwriter20/x-frame-bypass",
   "license": "Apache-2.0"
 }
