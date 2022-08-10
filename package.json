@@ -1,7 +1,7 @@
 {
-  "name": "@Jwriter20/x-frame-bypass",
+  "name": "@jwriter20/x-frame-bypass",
   "version": "1.0.0",
-  "description": "Web Component extending IFrame to bypass X-Frame-Options: deny/sameorigin",
+  "description": "Modified Web Component extending IFrame to bypass X-Frame-Options: deny/sameorigin",
   "main": "x-frame-bypass.js",
   "keywords": [
     "iframe",
